@@ -49,7 +49,3 @@ Since XGBoost and Random Forest perform equally well in this case:
 2. **Choose Random Forest** if model interpretability is more important
 3. Consider hyperparameter tuning to push performance beyond 82%
 
-## How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
