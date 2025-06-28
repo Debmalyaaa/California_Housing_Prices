@@ -32,11 +32,11 @@ This project predicts median housing prices in California districts using machin
 
 ## Model Performance Comparison
 
-| Model | R² Score | Performance |
+| Model | R² Score | 
 |-------|----------|-------------|
-| Linear Regression (LR) | 63.11% | ![63%]|
-| Random Forest Regressor (RFR) | 81.99% | ![82%]|
-| XGBoost Regressor (XGB) | 81.99% | ![82%]|
+| Linear Regression (LR) | 63.11% | 
+| Random Forest Regressor (RFR) | 81.99% | 
+| XGBoost Regressor (XGB) | 81.99% | 
 
 ### Key Observations:
 - **Random Forest and XGBoost** show nearly identical performance (81.99% R²)
